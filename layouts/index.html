@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>🦊 {{ .Site.Title }}</h1>
+  <p class="tagline">{{ .Site.Params.tagline }}</p>
+  <p>{{ .Site.Params.description }}</p>
+</section>
+<h2>Neueste Artikel</h2>
+<ul class="postlist">
+  {{ range (where .Site.RegularPages "Section" "posts") }}
+  <li>
+    <a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong></a>
+    <p class="muted">{{ .Description }}</p>
+    <span class="meta">{{ .Date.Format "02.01.2006" }} · {{ .ReadingTime }} Min.</span>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := .Title }}{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+<title>{{ if .IsHome }}{{ .Site.Title }} – KI-Tools für Selbstständige{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:title" content="{{ .Title | default .Site.Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta name="twitter:card" content="summary_large_image">
+{{ if .IsPage }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article",
+"headline":{{ .Title | jsonify }},
+"description":{{ (.Description | default .Site.Params.description) | jsonify }},
+"datePublished":{{ .Date.Format "2006-01-02" | jsonify }},
+"dateModified":{{ .Lastmod.Format "2006-01-02" | jsonify }},
+"author":{"@type":"Person","name":{{ .Site.Params.author | jsonify }}},
+"publisher":{"@type":"Organization","name":{{ .Site.Title | jsonify }}},
+"mainEntityOfPage":{{ .Permalink | jsonify }}}
+</script>
+{{ end }}
+{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ $.Site.Title }}">{{ end }}
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">

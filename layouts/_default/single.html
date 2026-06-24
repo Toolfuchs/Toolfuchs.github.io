@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ if .IsPage }}<p class="meta">{{ .Date.Format "02.01.2006" }} · {{ .ReadingTime }} Min. Lesezeit</p>{{ end }}
+  {{ if and .Params.showtoc .TableOfContents }}<details class="toc" open><summary>Inhalt</summary>{{ .TableOfContents }}</details>{{ end }}
+  <div class="content">{{ .Content }}</div>
+  {{ if .Params.tags }}<p class="tags">{{ range .Params.tags }}<span>#{{ . }}</span> {{ end }}</p>{{ end }}
+</article>
+{{ end }}
