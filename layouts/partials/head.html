@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="p:domain_verify" content="f9eaf9763c727e38f1d73d78e1ef5d10"/>
 {{ $title := .Title }}{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
 <title>{{ if .IsHome }}{{ .Site.Title }} – KI-Tools für Selbstständige{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
