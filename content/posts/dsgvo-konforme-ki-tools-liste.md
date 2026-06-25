@@ -133,3 +133,4 @@ Mein Rat: Stelle dir bei jedem Tool die drei Fragen nach Serverstandort, AVV und
 - [ChatGPT-Alternative auf Deutsch: DSGVO-konforme KI-Tools](/posts/chatgpt-alternative-deutsch-dsgvo/)
 - [Beste KI-Schreibtools auf Deutsch](/posts/beste-ki-schreibtool-deutsch/)
 - [KI-Tools für kleine Unternehmen](/posts/ki-tools-kleine-unternehmen/)
+- [KlickTipp Erfahrungen: DSGVO-konformes E-Mail-Marketing im Test](/posts/klicktipp-erfahrungen-deutsch/)
