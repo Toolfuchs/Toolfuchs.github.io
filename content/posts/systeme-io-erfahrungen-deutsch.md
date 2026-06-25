@@ -149,11 +149,11 @@ Oder sichere dir meinen kostenlosen Mini-Guide: **„5 Funnels für Selbstständ
 
 ## Interne Links
 
-- [KI-Tools für Selbstständige: Die besten Automatisierungen 2025](/ki-tools-selbstaendige)
-- [E-Mail-Marketing DACH: GetResponse vs. Brevo vs. Systeme.io im Vergleich](/email-marketing-vergleich-dach)
-- [Online-Kurse erstellen: Welche Plattform lohnt sich wirklich?](/online-kurs-plattform-vergleich)
-- [Funnel-Marketing für Einsteiger: So baust du deinen ersten Sales-Funnel](/funnel-marketing-einsteiger)
-- [Affiliate-Marketing starten: Die besten Tools für Solopreneure im DACH-Raum](/affiliate-marketing-tools-dach)
+- [Beste KI-Tools für Selbstständige](/posts/beste-ki-tools-fuer-selbststaendige/)
+- [GoHighLevel Deutsch Erfahrungen: Ehrlicher Test](/posts/gohighlevel-deutsch-erfahrungen/)
+- [KI-Tools für kleine Unternehmen: Was wirklich funktioniert](/posts/ki-tools-kleine-unternehmen/)
+- [DSGVO-konforme KI-Tools: Die Liste](/posts/dsgvo-konforme-ki-tools-liste/)
+- [n8n vs Make Vergleich](/posts/n8n-vs-make-vergleich/)
 
 ---
 

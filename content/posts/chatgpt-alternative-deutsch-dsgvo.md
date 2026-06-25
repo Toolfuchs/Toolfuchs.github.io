@@ -195,11 +195,10 @@ So bist du in 30 Minuten rechtlich abgesichert und produktiver als je zuvor.
 
 **Interne Links:**
 
-- [KI-Tools für Selbstständige im Vergleich 2024]
-- [DSGVO im Alltag: Was Freelancer wissen müssen]
-- [DeepL vs. Google Translate: Welches Tool lohnt sich?]
-- [Neuroflash Review: Lohnt sich das deutsche KI-Tool?]
-- [Datenschutz-Setup für Solo-Selbstständige: Schritt für Schritt]
+- [DSGVO-konforme KI-Tools: Die komplette Liste](/posts/dsgvo-konforme-ki-tools-liste/)
+- [Das beste KI-Schreibtool auf Deutsch im Test](/posts/beste-ki-schreibtool-deutsch/)
+- [Neuroflash vs. Jasper: Welches KI-Tool gewinnt?](/posts/neuroflash-vs-jasper/)
+- [Die besten KI-Tools für Selbstständige 2025](/posts/beste-ki-tools-fuer-selbststaendige/)
 
 ---
 

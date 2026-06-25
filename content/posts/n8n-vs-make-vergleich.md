@@ -204,8 +204,7 @@ Und wenn du direkt loslegen willst: [n8n ansehen →](https://n8n.io/) oder [Mak
 ---
 
 **Interne Links:**
-- [Automatisierung für Selbstständige: Die besten KI-Tools 2024](/automatisierung-ki-tools-selbststaendige)
-- [n8n Tutorial für Einsteiger: Erste Automation in 30 Minuten](/n8n-tutorial-einsteiger)
-- [Make.com Anleitung: So baust du deinen ersten Workflow](/make-com-anleitung)
-- [DSGVO & Automatisierung: Was Freelancer wissen müssen](/dsgvo-automatisierung-freelancer)
-- [Zapier Alternativen im Vergleich: Günstigere Optionen für KMU](/zapier-alternativen-vergleich)
+- [Make Alternative kostenlos: Die besten Gratis-Optionen](/posts/make-alternative-kostenlos/)
+- [KI-Tools für kleine Unternehmen: Der Praxis-Guide](/posts/ki-tools-kleine-unternehmen/)
+- [Die besten KI-Tools für Selbstständige 2025](/posts/beste-ki-tools-fuer-selbststaendige/)
+- [GoHighLevel auf Deutsch: Erfahrungen & Test](/posts/gohighlevel-deutsch-erfahrungen/)
