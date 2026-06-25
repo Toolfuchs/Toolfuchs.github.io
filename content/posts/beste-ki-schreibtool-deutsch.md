@@ -109,6 +109,8 @@ Meine klare Empfehlung als bestes deutsches KI-Schreibtool ist **Neuroflash**. H
 
 **Du suchst eine deutsche All-in-One-Lösung mit Bildgenerierung?** Mindverse ist einen Blick wert, auch wenn es bei der reinen Textqualität knapp hinter Neuroflash landet.
 
+> 💡 **Schneller starten:** Du willst KI sofort produktiv nutzen, ohne ewig an Prompts zu feilen? Mein Prompt-Pack **[111 KI-Prompts für Selbstständige](https://derwardrin.gumroad.com/l/111-ki-prompts-selbststaendige)** – Copy. Paste. Fertig. Für ChatGPT, Claude & Neuroflash.
+
 ## FAQ
 
 **Welches ist das beste KI-Schreibtool auf Deutsch?**

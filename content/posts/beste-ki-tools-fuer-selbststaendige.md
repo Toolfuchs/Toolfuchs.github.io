@@ -157,6 +157,8 @@ Die DSGVO-Konformität prüfst du einmal beim Onboarding. Danach läuft alles au
 
 ---
 
+> 💡 **Direkt loslegen:** Tool gewählt, aber die richtigen Prompts fehlen? Mein Prompt-Pack **[111 KI-Prompts für Selbstständige](https://derwardrin.gumroad.com/l/111-ki-prompts-selbststaendige)** – Copy. Paste. Fertig. Für ChatGPT, Claude & Neuroflash. Spart dir Stunden pro Woche.
+
 ## FAQ: Häufige Fragen zu KI-Tools für Selbstständige
 
 **Welche KI-Tools sind für Selbstständige in Deutschland DSGVO-konform?**
