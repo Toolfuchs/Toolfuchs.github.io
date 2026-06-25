@@ -10,7 +10,7 @@ cover:
   alt: "ChatGPT-Alternative auf Deutsch: DSGVO-konforme KI-Tools für Selbstständige"
 ---
 
-> **Affiliate-Hinweis:** Dieser Artikel enthält gekennzeichnete Affiliate-Links ([AFF:...]). Kaufst du über diese Links, erhalte ich eine kleine Provision – für dich entstehen keine Mehrkosten. Ich empfehle nur Tools, die ich selbst geprüft habe.
+> **Affiliate-Hinweis:** Dieser Artikel enthält gekennzeichnete Affiliate-Links (als „Werbung“ markiert). Kaufst du über diese Links, erhalte ich eine kleine Provision – für dich entstehen keine Mehrkosten. Ich empfehle nur Tools, die ich selbst geprüft habe.
 
 ---
 
@@ -68,7 +68,7 @@ Funktionen von Neuroflash:
 
 Preise: Ab ca. 30 Euro/Monat im Monatsabo, günstiger im Jahresabo. Es gibt eine kostenlose Testversion mit begrenzten Wörtern.
 
-**Empfehlung:** Neuroflash ist meine erste Wahl für Content-Ersteller im DACH-Raum. Wer regelmäßig Marketingtexte auf Deutsch produziert, spart viel Zeit. [AFF:neuroflash]
+**Empfehlung:** Neuroflash ist meine erste Wahl für Content-Ersteller im DACH-Raum. Wer regelmäßig Marketingtexte auf Deutsch produziert, spart viel Zeit. [Neuroflash kostenlos testen →](https://neuroflash.com/de/)
 
 ### DeepL Pro: Übersetzung und Textverarbeitung auf höchstem Niveau
 
@@ -85,7 +85,7 @@ Für internationale Selbstständige ist DeepL Pro unverzichtbar. Wer Angebote, R
 
 Preise: Ab ca. 8,99 Euro/Monat (Starter), Professional ab ca. 22,99 Euro/Monat.
 
-[AFF:deepl]
+[DeepL Pro ansehen →](https://www.deepl.com/pro)
 
 ### Notion AI: KI-Wissensdatenbank mit EU-Option
 
@@ -101,7 +101,7 @@ Für Selbstständige mit vielen Projekten und Dokumenten ist Notion AI besonders
 
 Preise: Notion AI als Add-on ab ca. 8 Euro/Monat pro Nutzer.
 
-[AFF:notion]
+[Notion kostenlos starten →](https://www.notion.so/de-de)
 
 ---
 
@@ -186,8 +186,8 @@ Neuroflash, DeepL Pro und Notion AI bieten dir alles, was du brauchst – mit EU
 **Meine Empfehlung für den Einstieg:**
 
 1. Lade dir die kostenlose DSGVO-KI-Checkliste herunter **[Link]**
-2. Teste Neuroflash 7 Tage kostenlos → [AFF:neuroflash]
-3. Hol dir DeepL Pro für professionelle Texte und Übersetzungen → [AFF:deepl]
+2. Teste Neuroflash 7 Tage kostenlos → [Neuroflash kostenlos testen →](https://neuroflash.com/de/)
+3. Hol dir DeepL Pro für professionelle Texte und Übersetzungen → [DeepL Pro ansehen →](https://www.deepl.com/pro)
 
 So bist du in 30 Minuten rechtlich abgesichert und produktiver als je zuvor.
 

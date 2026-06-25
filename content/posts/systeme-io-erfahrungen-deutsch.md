@@ -54,7 +54,7 @@ Systeme.io hat eines der attraktivsten Preismodelle im Markt. Der kostenlose Pla
 
 **Was der Free Plan nicht kann:** Eigene Domain auf allen Seiten, mehr als 1 Mitglieder-Site, A/B-Tests, erweiterte Automatisierungen.
 
-**Preisvergleich:** GetResponse kostet ab ca. 15 € für 1.000 Kontakte, hat aber keinen dauerhaft kostenlosen Plan. Brevo bietet ebenfalls einen Free Plan mit 300 E-Mails/Tag – hat aber keine Kurs- oder Funnel-Funktion. [AFF:getresponse] und [AFF:brevo] sind Alternativen, die ich weiter unten vergleiche.
+**Preisvergleich:** GetResponse kostet ab ca. 15 € für 1.000 Kontakte, hat aber keinen dauerhaft kostenlosen Plan. Brevo bietet ebenfalls einen Free Plan mit 300 E-Mails/Tag – hat aber keine Kurs- oder Funnel-Funktion. [GetResponse testen →](https://www.getresponse.com/de) und [Brevo ansehen →](https://www.brevo.com/de/) sind Alternativen, die ich weiter unten vergleiche.
 
 **Wichtig für DACH:** Alle Pläne beinhalten keine Mehrwertsteuer. Bei deutschen Kunden kommt je nach Standort 20 % MwSt. obendrauf. Das solltest du in deine Kalkulation einrechnen.
 
@@ -109,9 +109,9 @@ Das ist die wichtigste Frage. Systeme.io ist nicht für jeden richtig.
 
 **Alternativen im Vergleich:**
 
-Wenn du mehr E-Mail-Marketing-Tiefe brauchst: [AFF:getresponse] ist hier stärker. GetResponse bietet bessere E-Mail-Segmentierung, Webinar-Funktion und einen polierten E-Mail-Editor.
+Wenn du mehr E-Mail-Marketing-Tiefe brauchst: [GetResponse testen →](https://www.getresponse.com/de) ist hier stärker. GetResponse bietet bessere E-Mail-Segmentierung, Webinar-Funktion und einen polierten E-Mail-Editor.
 
-Wenn du nur E-Mails und Newsletter brauchst: [AFF:brevo] (ehemals Sendinblue) ist günstiger und hat DSGVO-Server in Europa.
+Wenn du nur E-Mails und Newsletter brauchst: [Brevo ansehen →](https://www.brevo.com/de/) (ehemals Sendinblue) ist günstiger und hat DSGVO-Server in Europa.
 
 Wenn du aber Funnels + E-Mails + Kurse + Affiliates in einem willst: Systeme.io ist die kosteneffizienteste Lösung im Markt.
 
@@ -123,7 +123,7 @@ Wenn du aber Funnels + E-Mails + Kurse + Affiliates in einem willst: Systeme.io 
 Ja, der Free Plan ist dauerhaft kostenlos. Du brauchst keine Kreditkarte. Du kannst bis zu 2.000 Kontakte verwalten, 3 Funnels bauen und unbegrenzt E-Mails verschicken. Es gibt keinen versteckten Ablauftermin.
 
 **Ist Systeme.io DSGVO-konform?**
-Systeme.io speichert Daten auf Servern in den USA. Du kannst einen Auftragsverarbeitungsvertrag (AVV) anfordern. Für den DACH-Raum solltest du eine Datenschutzerklärung einbinden und über die Datenübertragung informieren. Wer maximale DSGVO-Sicherheit will, wählt einen europäischen Anbieter wie [AFF:brevo].
+Systeme.io speichert Daten auf Servern in den USA. Du kannst einen Auftragsverarbeitungsvertrag (AVV) anfordern. Für den DACH-Raum solltest du eine Datenschutzerklärung einbinden und über die Datenübertragung informieren. Wer maximale DSGVO-Sicherheit will, wählt einen europäischen Anbieter wie [Brevo ansehen →](https://www.brevo.com/de/).
 
 **Kann ich meine eigene Domain bei Systeme.io nutzen?**
 Ja, du kannst eigene Domains verknüpfen. Das funktioniert auch im Free Plan für deine Funnels. Für E-Mails empfehle ich, eine eigene Domain mit DKIM/SPF zu konfigurieren – das verbessert die Zustellrate erheblich.

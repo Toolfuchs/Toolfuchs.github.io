@@ -40,7 +40,7 @@ Die kurze Antwort: n8n self-hosted kostet 0 Euro. Make hat ein Free-Tier mit 1.0
 - Teams: ab ca. 29 Euro/Monat
 - Operations verbrauchen sich schnell – jeder Schritt in einem Szenario zählt einzeln
 
-**Mein Fazit:** Für technisch versierte Selbstständige ist n8n self-hosted klar günstiger. Mit 5 Euro Serverkosten pro Monat läuft alles unbegrenzt. Make hingegen ist attraktiv für Einsteiger, die keinen Server verwalten wollen. Das Recurring-Modell von Make kann teuer werden, wenn deine Automationen wachsen. [AFF:n8n] | [AFF:make]
+**Mein Fazit:** Für technisch versierte Selbstständige ist n8n self-hosted klar günstiger. Mit 5 Euro Serverkosten pro Monat läuft alles unbegrenzt. Make hingegen ist attraktiv für Einsteiger, die keinen Server verwalten wollen. Das Recurring-Modell von Make kann teuer werden, wenn deine Automationen wachsen. [n8n ansehen →](https://n8n.io/) | [Make ansehen →](https://www.make.com/de)
 
 ---
 
@@ -66,7 +66,7 @@ Make gewinnt beim Einstieg klar. n8n ist mächtiger, aber steiler.
 
 **Aus der Praxis:** Meine ersten drei Automationen mit Make waren in einem Nachmittag gebaut. Bei n8n hat die erste funktionierende Automation zwei Tage gedauert – aber dann konnte ich Dinge umsetzen, die mit Make nicht möglich gewesen wären.
 
-Für Einsteiger und Nicht-Techniker: Make. Für Entwickler und technikaffine Freelancer: n8n. [AFF:make] | [AFF:n8n]
+Für Einsteiger und Nicht-Techniker: Make. Für Entwickler und technikaffine Freelancer: n8n. [Make ansehen →](https://www.make.com/de) | [n8n ansehen →](https://n8n.io/)
 
 ---
 
@@ -93,7 +93,7 @@ Beide Tools verbinden Hunderte von Apps. Der Unterschied liegt in der Tiefe, nic
 
 **Wichtiger Unterschied:** n8n erlaubt dir, beliebigen Code auszuführen. Make bleibt in seiner Sandbox. Wenn du eine API nutzen willst, die kein Make-Modul hat, brauchst du den HTTP-Request-Baustein – das geht, aber ist mühsamer als n8n's Code-Node. Für KI-Automationen ist n8n durch seine Offenheit klar im Vorteil.
 
-Zapier als Alternative [AFF:zapier] hat noch mehr Integrationen (6.000+), kostet aber deutlich mehr und bietet weniger technische Tiefe als n8n.
+Zapier als Alternative [Zapier ansehen →](https://zapier.com/) hat noch mehr Integrationen (6.000+), kostet aber deutlich mehr und bietet weniger technische Tiefe als n8n.
 
 ---
 
@@ -160,7 +160,7 @@ Für Selbstständige und Kleinunternehmen in Deutschland, Österreich und der Sc
 - Einfache Marketing- und CRM-Automationen baust
 - Teammitglieder ohne Tech-Hintergrund mit einbindest
 
-**Meine persönliche Nutzung:** n8n self-hosted für alles, was mit Kundendaten zu tun hat. Make für schnelle Prototypen und Projekte, bei denen Kunden selbst Zugang brauchen. Zapier [AFF:zapier] kommt ins Spiel, wenn ein Kunde ein spezifisches Tool nutzt, das nur dort verfügbar ist.
+**Meine persönliche Nutzung:** n8n self-hosted für alles, was mit Kundendaten zu tun hat. Make für schnelle Prototypen und Projekte, bei denen Kunden selbst Zugang brauchen. Zapier [Zapier ansehen →](https://zapier.com/) kommt ins Spiel, wenn ein Kunde ein spezifisches Tool nutzt, das nur dort verfügbar ist.
 
 ---
 
@@ -193,7 +193,7 @@ Ich habe 10 praxiserprobte Workflows gepackt – 5 für n8n, 5 für Make. Direkt
 
 **Download:** [Jetzt kostenlos herunterladen – Automatisierungs-Starter-Vorlagen]
 
-Und wenn du direkt loslegen willst: [AFF:n8n] oder [AFF:make] – je nach deinem Profil oben.
+Und wenn du direkt loslegen willst: [n8n ansehen →](https://n8n.io/) oder [Make ansehen →](https://www.make.com/de) – je nach deinem Profil oben.
 
 ---
 

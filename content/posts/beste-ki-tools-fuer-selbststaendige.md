@@ -90,7 +90,7 @@ GetResponse ist eine der etabliertesten Plattformen in Deutschland. Die KI-Funkt
 
 **Meine Einschätzung:** GetResponse lohnt sich ab dem ersten Tag. Die KI-Betreffzeilen allein können Öffnungsraten um 10–20 % steigern. Für Selbstständige, die E-Mail-Marketing ernst nehmen, ist das ein klarer Gewinn.
 
-[GetResponse 30 Tage kostenlos testen →][AFF:getresponse]
+[GetResponse 30 Tage kostenlos testen →](https://www.getresponse.com/de)
 
 ---
 
@@ -115,7 +115,7 @@ Du hast ein Kundengespräch. Du tippst Stichpunkte ins Notion. Notion AI struktu
 
 **Meine Einschätzung:** Notion AI ist kein Ersatz für ChatGPT. Es ist ein Produktivitätsmultiplikator für alle, die bereits in Notion arbeiten. Der Free-Plan reicht für Solo-Selbstständige oft aus.
 
-[Notion kostenlos starten →][AFF:notion]
+[Notion kostenlos starten →](https://www.notion.so/de-de)
 
 ---
 
