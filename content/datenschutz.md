@@ -5,7 +5,7 @@ ShowToc: true
 ShowReadingTime: false
 ---
 
-Stand: [DATUM]. Verantwortlicher: [DEIN NAME], [ANSCHRIFT], [E-MAIL].
+Stand: 25.06.2026. Verantwortlicher: Tim Müller, Kremenholl 34, 42857 Remscheid, toolfuchs@proton.me.
 
 ## 1. Allgemeines
 Wir nehmen den Schutz deiner Daten ernst. Verarbeitung erfolgt nach DSGVO.
@@ -20,6 +20,4 @@ Für den Newsletter nutzen wir **Brevo** (Sendinblue GmbH, EU-Server). Anmeldung
 Wir verlinken auf Partnerprogramme (u. a. Systeme.io, GoHighLevel, GetResponse). Beim Klick kann der Anbieter ein Cookie setzen, um Vermittlungen zuzuordnen. Es werden keine personenbezogenen Daten von uns an die Partner übermittelt.
 
 ## 5. Deine Rechte
-Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit. Kontakt: [DEINE E-MAIL].
-
-> ⚠️ PFLICHT: Vor Live-Gang von einem Generator (z. B. eRecht24) prüfen/ergänzen lassen. Dies ist eine Vorlage, keine Rechtsberatung.
+Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit. Kontakt: toolfuchs@proton.me. Zudem besteht ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde (für NRW: LDI Nordrhein-Westfalen).
