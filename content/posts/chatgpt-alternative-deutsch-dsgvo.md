@@ -68,7 +68,7 @@ Funktionen von Neuroflash:
 
 Preise: Ab ca. 30 Euro/Monat im Monatsabo, günstiger im Jahresabo. Es gibt eine kostenlose Testversion mit begrenzten Wörtern.
 
-**Empfehlung:** Neuroflash ist meine erste Wahl für Content-Ersteller im DACH-Raum. Wer regelmäßig Marketingtexte auf Deutsch produziert, spart viel Zeit. [Neuroflash kostenlos testen →](https://neuroflash.com/de/)
+**Empfehlung:** Neuroflash ist meine erste Wahl für Content-Ersteller im DACH-Raum. Wer regelmäßig Marketingtexte auf Deutsch produziert, spart viel Zeit. **Neuroflash**
 
 ### DeepL Pro: Übersetzung und Textverarbeitung auf höchstem Niveau
 
@@ -85,7 +85,6 @@ Für internationale Selbstständige ist DeepL Pro unverzichtbar. Wer Angebote, R
 
 Preise: Ab ca. 8,99 Euro/Monat (Starter), Professional ab ca. 22,99 Euro/Monat.
 
-[DeepL Pro ansehen →](https://www.deepl.com/pro)
 
 ### Notion AI: KI-Wissensdatenbank mit EU-Option
 
@@ -101,7 +100,6 @@ Für Selbstständige mit vielen Projekten und Dokumenten ist Notion AI besonders
 
 Preise: Notion AI als Add-on ab ca. 8 Euro/Monat pro Nutzer.
 
-[Notion kostenlos starten →](https://www.notion.so/de-de)
 
 ---
 
@@ -186,8 +184,8 @@ Neuroflash, DeepL Pro und Notion AI bieten dir alles, was du brauchst – mit EU
 **Meine Empfehlung für den Einstieg:**
 
 1. Lade dir die kostenlose DSGVO-KI-Checkliste herunter **[Link]**
-2. Teste Neuroflash 7 Tage kostenlos → [Neuroflash kostenlos testen →](https://neuroflash.com/de/)
-3. Hol dir DeepL Pro für professionelle Texte und Übersetzungen → [DeepL Pro ansehen →](https://www.deepl.com/pro)
+2. Teste Neuroflash 7 Tage kostenlos → **Neuroflash**
+3. Hol dir DeepL Pro für professionelle Texte und Übersetzungen → **DeepL Pro**
 
 So bist du in 30 Minuten rechtlich abgesichert und produktiver als je zuvor.
 

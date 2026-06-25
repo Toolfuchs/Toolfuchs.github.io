@@ -26,7 +26,6 @@ Funktional bietet Neuroflash mehr als nur einen Textgenerator. Es gibt über 100
 
 Preislich startet der kostenlose Einstieg über die 7-tägige Testphase ohne Kreditkarte. Danach kostet der Essential-Tarif rund 42 Euro pro Monat, der Pro-Tarif liegt bei etwa 84 Euro pro Monat und Nutzer. Für Selbstständige reicht in der Praxis meist Essential, kleine Teams greifen zu Pro. Abgerechnet wird transparent in Euro inklusive deutscher Rechnung – ein kleines, aber im Buchhaltungsalltag angenehmes Detail.
 
-[Neuroflash kostenlos testen →](https://neuroflash.com/de/)
 
 ## Jasper im Überblick
 
@@ -56,7 +55,7 @@ Das ist für mich der Kern des Vergleichs. Neuroflash wurde von Anfang an für d
 
 Noch wichtiger für viele Selbstständige und Unternehmen im DACH-Raum ist das Thema Datenschutz. Neuroflash hostet seine Server in Deutschland, ist nach ISO/IEC 27001 zertifiziert und verarbeitet die eingegebenen Inhalte ausschließlich zur Leistungserbringung – ohne Weitergabe an Dritte und ohne Modelltraining mit deinen Daten. Wer mit Kundendaten, internen Texten oder sensiblen Themen arbeitet, hat damit eine deutlich klarere DSGVO-Grundlage als bei einem US-Anbieter, bei dem die Datenverarbeitung primär in den USA stattfindet.
 
-Falls du Jasper wegen der starken englischen Texte trotzdem nutzen möchtest, ist eine saubere Übersetzung mit [DeepL Pro →](https://www.deepl.com/pro) eine pragmatische Lösung. Damit lässt sich englischer Jasper-Output in hochwertiges Deutsch bringen – das ist aber ein zusätzlicher Arbeitsschritt und ein weiteres Abo.
+Falls du Jasper wegen der starken englischen Texte trotzdem nutzen möchtest, ist eine saubere Übersetzung mit **DeepL Pro** eine pragmatische Lösung. Damit lässt sich englischer Jasper-Output in hochwertiges Deutsch bringen – das ist aber ein zusätzlicher Arbeitsschritt und ein weiteres Abo.
 
 ## Vor- und Nachteile
 
@@ -117,7 +116,6 @@ Nach mehreren Wochen im Praxistest ist meine Empfehlung eindeutig: Für deutschs
 
 Wenn du den Großteil deiner Inhalte auf Deutsch produzierst, würde ich an deiner Stelle mit der kostenlosen Testphase von Neuroflash starten und das Tool eine Woche lang an deinen echten Texten ausprobieren.
 
-[Neuroflash 7 Tage kostenlos testen →](https://neuroflash.com/de/)
 
 ## Interne Links
 

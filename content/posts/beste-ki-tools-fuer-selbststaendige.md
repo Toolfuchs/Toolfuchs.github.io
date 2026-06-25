@@ -92,7 +92,7 @@ GetResponse ist eine der etabliertesten Plattformen in Deutschland. Die KI-Funkt
 
 [KlickTipp kostenlos testen →](https://www.digistore24.com/redir/38219/KI-SurvivalHub/)
 
-International und mit KI-Betreffzeilen stark: [GetResponse 30 Tage testen →](https://www.getresponse.com/de) – solide, aber Server außerhalb der EU.
+International und mit KI-Betreffzeilen stark: **GetResponse** – solide, aber Server außerhalb der EU.
 
 ---
 
@@ -117,7 +117,6 @@ Du hast ein Kundengespräch. Du tippst Stichpunkte ins Notion. Notion AI struktu
 
 **Meine Einschätzung:** Notion AI ist kein Ersatz für ChatGPT. Es ist ein Produktivitätsmultiplikator für alle, die bereits in Notion arbeiten. Der Free-Plan reicht für Solo-Selbstständige oft aus.
 
-[Notion kostenlos starten →](https://www.notion.so/de-de)
 
 ---
 

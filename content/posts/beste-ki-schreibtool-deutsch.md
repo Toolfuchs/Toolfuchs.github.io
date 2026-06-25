@@ -40,7 +40,6 @@ Bevor ich zu den einzelnen Tools komme, kurz die Kriterien, nach denen ich bewer
 
 **Preis:** Es gibt einen kostenlosen Tarif mit 2.000 Wörtern pro Monat. Der Einstieg in die Bezahlversion liegt bei rund 30 Euro pro Monat (Basic), für unbegrenzte Wörter zahlt man im Premium-Tarif ab etwa 80 Euro monatlich.
 
-[Neuroflash kostenlos testen →](https://neuroflash.com/de/)
 
 ## 2. DeepL Write
 
@@ -52,7 +51,6 @@ Bevor ich zu den einzelnen Tools komme, kurz die Kriterien, nach denen ich bewer
 
 **Preis:** Die Basisfunktionen sind kostenlos nutzbar. DeepL Pro (inklusive erweiterter Write-Funktionen und Datenschutzgarantien) startet bei etwa 9 Euro pro Monat.
 
-[DeepL Pro ansehen →](https://www.deepl.com/pro)
 
 ## 3. ChatGPT / GPT
 
@@ -131,7 +129,6 @@ Nach mehreren Wochen im echten Einsatz ist mein Fazit eindeutig: Für deutschspr
 
 Wenn du es selbst ausprobieren willst, starte mit dem kostenlosen Tarif – ohne Risiko und ohne Zahlungsdaten.
 
-[Neuroflash jetzt kostenlos testen →](https://neuroflash.com/de/)
 
 ## Interne Links
 

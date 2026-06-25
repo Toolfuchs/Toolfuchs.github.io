@@ -44,7 +44,6 @@ Ein Tool, das alle drei Punkte erfüllt, ist in meinen Augen geschäftstauglich.
 
 **Pro/Contra:** Pro: deutsches Unternehmen, AVV, exzellentes Deutsch, DSGVO-Fokus. Contra: nutzt im Hintergrund teils US-Modelle, daher kein hundertprozentiger EU-Stack.
 
-[Neuroflash kostenlos testen →](https://neuroflash.com/de/)
 
 ## 2. KlickTipp (E-Mail-Marketing, deutsche Server)
 
@@ -68,7 +67,6 @@ Ein Tool, das alle drei Punkte erfüllt, ist in meinen Augen geschäftstauglich.
 
 **Pro/Contra:** Pro: EU-Server, AVV, kostenloser Tarif, günstig im Einstieg. Contra: Support und Zustellraten schwanken je nach Tarif, weniger spezialisiert als reine E-Mail-Profis.
 
-[Brevo kostenlos starten →](https://www.brevo.com/de/)
 
 ## 4. DeepL (Übersetzung, DE)
 

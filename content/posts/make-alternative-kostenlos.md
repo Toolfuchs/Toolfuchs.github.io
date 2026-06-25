@@ -14,7 +14,7 @@ cover:
 
 ---
 
-Ich erinnere mich noch gut an den Moment, als meine Make-Automatisierung mitten im Monat einfach stehen blieb. Eine wichtige Rechnungsverarbeitung lief plötzlich nicht mehr, und in meinem Dashboard prangte die rote Meldung: "Operations-Limit erreicht." Ich war im kostenlosen Plan von [Make →](https://www.make.com/de) und hatte meine 1.000 Operationen im Monat aufgebraucht. Wer kennt's? Was günstig anfängt, wird mit wachsendem Geschäft schnell teuer. Und genau deshalb habe ich mich auf die Suche nach einer **Make Alternative kostenlos** gemacht – und über mehrere Wochen die wichtigsten Tools mit echten Workflows getestet.
+Ich erinnere mich noch gut an den Moment, als meine Make-Automatisierung mitten im Monat einfach stehen blieb. Eine wichtige Rechnungsverarbeitung lief plötzlich nicht mehr, und in meinem Dashboard prangte die rote Meldung: "Operations-Limit erreicht." Ich war im kostenlosen Plan von **Make** und hatte meine 1.000 Operationen im Monat aufgebraucht. Wer kennt's? Was günstig anfängt, wird mit wachsendem Geschäft schnell teuer. Und genau deshalb habe ich mich auf die Suche nach einer **Make Alternative kostenlos** gemacht – und über mehrere Wochen die wichtigsten Tools mit echten Workflows getestet.
 
 In diesem Artikel teile ich meine Ergebnisse: welche Tools wirklich gratis funktionieren, wo die versteckten Haken liegen und für wen sich welche Lösung lohnt. Ohne Marketing-Geschwafel, mit echten Zahlen.
 
@@ -34,7 +34,7 @@ Ich habe vier Tools intensiv ausprobiert. Hier meine ehrliche Einschätzung zu j
 
 ### 1. n8n – mein klarer Testsieger
 
-[n8n →](https://n8n.io/) ist für mich die spannendste Entdeckung gewesen. Das Tool ist Open Source, und das bedeutet: Wenn du es auf deinem eigenen Server installierst (self-hosted), kannst du es **komplett unbegrenzt und kostenlos** nutzen. Keine Operations-Limits, keine künstliche Bremse, keine bösen Überraschungen.
+**n8n** ist für mich die spannendste Entdeckung gewesen. Das Tool ist Open Source, und das bedeutet: Wenn du es auf deinem eigenen Server installierst (self-hosted), kannst du es **komplett unbegrenzt und kostenlos** nutzen. Keine Operations-Limits, keine künstliche Bremse, keine bösen Überraschungen.
 
 Der Haken: Du brauchst einen kleinen Server. Ich habe n8n auf einem VPS bei Hetzner installiert, der mich rund 5 Euro im Monat kostet. Die Installation per Docker hat bei mir etwa 30 Minuten gedauert – mit etwas technischem Grundverständnis machbar, aber nichts für absolute Einsteiger. Wer es bequemer mag, bekommt mit der n8n Cloud auch eine gehostete Variante ab etwa 20 Euro im Monat.
 
@@ -42,7 +42,7 @@ In meinem Test lief n8n absolut stabil. Ich habe über 50.000 Ausführungen in e
 
 ### 2. Zapier Free – die einfachste Lösung für Nicht-Techniker
 
-[Zapier →](https://zapier.com/) ist der Klassiker unter den Automatisierungstools. Der kostenlose Plan bietet 100 Aufgaben pro Monat und erlaubt einfache Zwei-Schritt-Automatisierungen ("Zaps"). Für absolute Einsteiger ist das die zugänglichste Variante überhaupt – keine Installation, kein Server, nichts.
+**Zapier** ist der Klassiker unter den Automatisierungstools. Der kostenlose Plan bietet 100 Aufgaben pro Monat und erlaubt einfache Zwei-Schritt-Automatisierungen ("Zaps"). Für absolute Einsteiger ist das die zugänglichste Variante überhaupt – keine Installation, kein Server, nichts.
 
 Im Test war ich von der Einfachheit begeistert: In unter fünf Minuten hatte ich meinen ersten Zap am Laufen. Der kostenlose Rahmen ist allerdings eng. 100 Aufgaben sind schnell weg, und mehrstufige Workflows gibt es erst in den Bezahlplänen ab rund 20 Euro im Monat.
 
@@ -109,9 +109,9 @@ Das hängt von deinem Volumen ab. Wenn du regelmäßig ans Operations-Limit stö
 
 ## Fazit & Empfehlung
 
-Meine ehrliche Empfehlung nach Wochen des Testens: Wenn du beim Automatisieren wirklich sparen und gleichzeitig keine Grenzen haben willst, ist [n8n →](https://n8n.io/) die beste Make-Alternative kostenlos überhaupt. Die rund 5 Euro Serverkosten amortisieren sich schnell, und du bekommst unbegrenzte Workflows plus volle Datenkontrolle. Für mich war das ein echter Gamechanger – seit dem Umstieg zahle ich nur noch einen Bruchteil und habe nie wieder eine "Limit erreicht"-Meldung gesehen.
+Meine ehrliche Empfehlung nach Wochen des Testens: Wenn du beim Automatisieren wirklich sparen und gleichzeitig keine Grenzen haben willst, ist **n8n** die beste Make-Alternative kostenlos überhaupt. Die rund 5 Euro Serverkosten amortisieren sich schnell, und du bekommst unbegrenzte Workflows plus volle Datenkontrolle. Für mich war das ein echter Gamechanger – seit dem Umstieg zahle ich nur noch einen Bruchteil und habe nie wieder eine "Limit erreicht"-Meldung gesehen.
 
-Bist du dagegen technisch unsicher und willst einfach nur loslegen, ist [Zapier →](https://zapier.com/) dein Tool. Probiere am besten beide kostenlosen Versionen aus und schau, was sich für dich besser anfühlt.
+Bist du dagegen technisch unsicher und willst einfach nur loslegen, ist **Zapier** dein Tool. Probiere am besten beide kostenlosen Versionen aus und schau, was sich für dich besser anfühlt.
 
 ## Interne Links
 
