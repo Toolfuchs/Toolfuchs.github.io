@@ -4,7 +4,7 @@
 <body>
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="{{ "/" | relURL }}">🦊 {{ .Site.Title }}</a>
+    <a class="brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "logo-icon.svg" | relURL }}" alt="" width="34" height="34">Tool<span>Fuchs</span></a>
     <nav>{{ range .Site.Menus.main }}<a href="{{ .URL | relURL }}">{{ .Name }}</a>{{ end }}</nav>
   </div>
 </header>

@@ -7,7 +7,6 @@ ShowReadingTime: false
 
 Angaben gemäß § 5 DDG.
 
-**Tim Müller**
 Kremenholl 34
 42857 Remscheid
 Deutschland
@@ -19,7 +18,7 @@ E-Mail: toolfuchs@proton.me
 Eine USt-IdNr. gemäß § 27 a UStG liegt derzeit nicht vor.
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV**
-Tim Müller, Anschrift wie oben.
+Anschrift wie oben.
 
 **Haftungsausschluss / Affiliate-Hinweis**
 Diese Website enthält Affiliate-Links. Klickst du darauf und kaufst, erhalte ich eine Provision. Für dich ändert sich der Preis nicht. Affiliate-Links sind mit „Werbung" gekennzeichnet.

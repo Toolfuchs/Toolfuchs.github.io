@@ -1,6 +1,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="p:domain_verify" content="f9eaf9763c727e38f1d73d78e1ef5d10"/>
+<link rel="icon" type="image/svg+xml" href="{{ "logo-icon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32.png" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+<meta name="theme-color" content="#FF6A2B">
+<meta property="og:image" content="{{ "og-image.png" | absURL }}">
+<meta name="twitter:image" content="{{ "og-image.png" | absURL }}">
 {{ $title := .Title }}{{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
 <title>{{ if .IsHome }}{{ .Site.Title }} – KI-Tools für Selbstständige{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
